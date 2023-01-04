@@ -1,0 +1,51 @@
+body {
+  text-align: center;
+}
+
+table,
+th,
+td {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-family: serif;
+  text-decoration: underline;
+}
+
+button {
+  margin-top: 20px;
+  margin-left: 3px;
+  margin-right: 3px;
+  background-color: white;
+  color: black;
+  border: 2px solid #4caf50;
+  width: 120px;
+  height: 60px;
+  border-radius: 5px;
+}
+
+#btn {
+  text-align: center;
+}
+
+img {
+  margin: 20px;
+}
+
+span {
+  text-align: center;
+  text-decoration: underline;
+}
+
+#btn {
+  text-align: center;
+}
+
+th,
+td {
+  padding: 5px;
+}

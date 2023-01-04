@@ -1,0 +1,74 @@
+.topnav {
+  overflow: hidden;
+  background-color: #e9e9e9;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #2196f3;
+  color: white;
+}
+
+.topnav input[type="text"] {
+  float: right;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+}
+
+#default {
+  width: 18px;
+}
+
+h1,
+h2 {
+  font-family: sans-serif;
+  text-decoration: underline;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  margin: 2px;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-bottom: 10px;
+}
+
+p {
+  font-family: sans-serif;
+  text-decoration: underline;
+}
+
+button {
+  background-color: white;
+  color: black;
+  border: 2px solid #4caf50;
+  height: 25px;
+}

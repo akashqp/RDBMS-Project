@@ -1,0 +1,61 @@
+h1 {
+  font-family: serif;
+  margin-bottom: 40px;
+  text-decoration: underline;
+}
+
+#content {
+  text-align: center;
+  justify-content: center;
+}
+
+#table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table,
+th,
+td {
+  border: 1px solid;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#input {
+  width: 90%;
+}
+
+button {
+  margin-top: 20px;
+  margin-left: 3px;
+  margin-right: 3px;
+  background-color: white;
+  color: black;
+  border: 2px solid #4caf50;
+  width: 120px;
+  height: 60px;
+  border-radius: 5px;
+}
+
+#btn {
+  text-align: center;
+}
+
+#inp {
+  width: 75%;
+}
+
+th,
+td {
+  padding: 5px;
+}
+
+img {
+  margin: 20px;
+}
+
+span {
+  text-align: center;
+  text-decoration: underline;
+}
